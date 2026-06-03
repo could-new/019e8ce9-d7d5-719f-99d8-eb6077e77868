@@ -106,7 +106,7 @@ class UniverseProvider extends ChangeNotifier {
   List<OpenWhenTemplate> openWhenMessages = [
     OpenWhenTemplate(id: '1', title: 'Open when you miss me'),
     OpenWhenTemplate(id: '2', title: 'Open when you feel sad'),
-    OpenWhenTemplate(id: '3', title: 'Open when you can\\'t sleep'),
+    OpenWhenTemplate(id: '3', title: "Open when you can't sleep"),
     OpenWhenTemplate(id: '4', title: 'Open when you need motivation'),
     OpenWhenTemplate(id: '5', title: 'Open when you want to smile'),
   ];
